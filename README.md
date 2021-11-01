@@ -6,6 +6,6 @@ Welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 
 Playtest my game [here]().
 
-##Prototype
+## Prototype
 
 Play my prototype [here](prototype/EdgeOfTheWorld(1).html)
