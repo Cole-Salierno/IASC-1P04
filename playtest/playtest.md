@@ -1,4 +1,4 @@
-#EdgeOfTheWorld
+EdgeOfTheWorld
 ##Playtest
 
 ##Play the game
